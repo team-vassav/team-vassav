@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @team-vassav
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently undergraduate at JNTUH College of Sulthanpur, Telangana, India.
-- 📫 How to reach me - teamvassav@gmail.com 📱
-- 💻 My Skills are - Python 🐍 programming, Additive Manufacturing 🏗️, Exploratory Data Analysis 🤖, CAD Modeling.
+- 👋 Hi, We are @team-vassav
+- 👀 We are interested in Robotics
+- 🌱 We are undergraduates from JNTUH College of Sulthanpur, Telangana, India.
+- 📫 How to reach us ? - teamvassav@gmail.com 📱
+- 💻 Our Skills are - Python 🐍 programming, Additive Manufacturing 🏗️, Exploratory Data Analysis 🤖, CAD Modeling.
 
 <!---
 team-vassav/team-vassav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
